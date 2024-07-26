@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1722031192 source:c:\users\stealthy\desktop\brute_forcer\brute_forcer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"brute_forcer.h"
+
+1722031778 source:c:\users\stealthy\desktop\brute_forcer\main.c
+	<stdio.h>
+	"brute_forcer.h"
+
+1722027100 c:\users\stealthy\desktop\brute_forcer\brute_forcer.h
+	<windows.h>
+
